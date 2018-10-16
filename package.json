@@ -1,0 +1,30 @@
+{
+  "name": "node-moloch",
+  "version": "1.0.0",
+  "description": "node-moloch is a simple Moloch client which gives you the ability to query your Moloch server easily and fetch security-related information.",
+  "main": "Moloch.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomgold182/node-moloch.git"
+  },
+  "keywords": [
+    "moloch",
+    "moloch-js",
+    "node-moloch",
+    "security",
+    "incident",
+    "response"
+  ],
+  "author": "Tom Goldberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomgold182/node-moloch/issues"
+  },
+  "homepage": "https://github.com/tomgold182/node-moloch#readme",
+  "dependencies": {
+    "elasticsearch": "^15.1.1"
+  }
+}
