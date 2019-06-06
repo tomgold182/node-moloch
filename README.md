@@ -26,7 +26,7 @@ For example: getOutGoingConnectionsForIP('192.168.3.2','96') will search for out
 
 ### How To ###
 
-1. cd in to your project folder and npm install this reposotory 
+1. cd in to your project folder and npm install this repository 
 ~~~ 
 npm install --save node-moloch
 ~~~
